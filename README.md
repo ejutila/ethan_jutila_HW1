@@ -1,1 +1,1 @@
-# ethan_jutila_Project1-main
+# ethan_jutila_typography_HW1
