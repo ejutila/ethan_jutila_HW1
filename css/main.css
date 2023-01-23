@@ -1,0 +1,43 @@
+/* We typically use one CSS file, named main.css to control all of our pages */
+
+/* this is a class we use to hide headings in our design */
+.hidden {
+    display: none;
+}
+
+#container {
+    margin: 20px auto;
+    width: 428px;
+    border: solid 1px #333;
+    border-radius: 10px;
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 100px;
+}
+
+p {
+    line-height: 30px;
+    color: #363636;
+}
+
+h2, h3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2 {
+    font-size: 56px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    background-color: brown;
+    color: #fff;
+    padding: 15px;
+    box-shadow: 5px 5px 0 red;
+}
+
+h3 {
+    font-size: 42px;
+    letter-spacing: 1;
+}
